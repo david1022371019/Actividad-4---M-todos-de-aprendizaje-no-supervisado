@@ -1,0 +1,17 @@
+﻿InicioRuta;FinRuta;Distancia (km)
+Portal Norte; Estación Escuela Militar;13
+Heroes; Estación Escuela Militar;3
+Heroes; Calle 26;7
+Portal Norte; Calle 26;20
+Calle 26; Portal Dorado;12
+Calle 26; Av. Jimenez;3
+Portal Norte; Av. Jimenez;23
+Estación Escuela Militar; Portal 80;8
+Estación Escuela Militar; Portal Suba;10
+Estación Escuela Militar; Portal Dorado;15
+ Estación Escuela Militar;Universidad Nacional;20
+Universidad Nacional; Ricaurte;3
+ Ricaurte; Portal Americas;18
+Calle 26; Portal el Tunal;24
+Calle 26; Portal Americas;22
+Estación Escuela Militar; Portal Sur;27
